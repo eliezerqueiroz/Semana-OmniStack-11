@@ -3,7 +3,7 @@ Projeto produzido durante a semana #OmniStack da #RocketSeat utilizando #NodeJS,
 
 
 <h1 align="center">
-    <img src=".github/bethehero.svg" width="200px" />
+    <img src=".frontend/src/assets/bethehero.svg" width="200px" />
 </h1>
 
 
