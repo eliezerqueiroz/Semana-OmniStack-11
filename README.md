@@ -3,7 +3,7 @@ Projeto produzido durante a semana #OmniStack da #RocketSeat utilizando #NodeJS,
 
 
 <h1 align="center">
-    <img alt="DevRadar" title="#delicinha" src=".github/bethehero.svg" width="200px" />
+    <img alt="DevRadar" title="#delicinha" src=".github/logo.svg" width="200px" />
 </h1>
 
 <h4 align="center">
